@@ -3,13 +3,9 @@
 from distutils.core import setup
 
 setup(
-    name='RBMProject',
+    name='RBM',
     version='0.0.1',
-    description='Restricted Boltzmann Machines ',
-    long_description='readme',
-    author='Daiki Morita',
-    author_email='cube-0825@hotmail.co.jp',
-    url='https://github.com/kennethreitz/samplemod',
-    license=license,
+    description='Restricted Boltzmann Machines',
+    long_description='README',
     install_requires=['numpy','pandas'],
 )

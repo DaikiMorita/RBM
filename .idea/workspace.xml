@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9592c485-a6f6-426d-9b7c-1cd5f6ba7f9e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/ConfigOriginal/ConfigOriginal.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/ConfigOriginal/ConfigOriginal.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/config.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/Controller.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PreProcessManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/PreProcessManager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/label_H" beforeDir="false" afterPath="$PROJECT_DIR$/label_H" afterDir="false" />
-    </list>
+    <list default="true" id="9592c485-a6f6-426d-9b7c-1cd5f6ba7f9e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +24,8 @@
       <file leaf-file-name="PreProcessManager.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PreProcessManager.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+            <state relative-caret-position="75">
+              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -129,7 +122,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="158" y="45" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -177,8 +169,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PreProcessManager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        <state relative-caret-position="75">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
         </state>
       </provider>
     </entry>
