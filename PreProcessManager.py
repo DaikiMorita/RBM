@@ -53,11 +53,6 @@ class PreProcessManager(object):
         mini_batches = [data_array[i:i + mini_batch_size] for i in
                         range(0, data_array_length - rest, mini_batch_size)]
 
-        print("len(mini_batches[0])")
-        print(len(mini_batches[0]))
-        print("len(mini_batches[0][0])")
-        print(len(mini_batches[0][0]))
-
         return mini_batches
 
     def decorrelation(self, data_array):

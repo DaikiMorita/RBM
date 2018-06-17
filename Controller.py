@@ -235,11 +235,6 @@ class Controller(object):
         # Will get learned numpy arrays
         start = time.time()
 
-        print(type(mini_batch))
-        print("len(mini_batch[0])")
-        print(len(mini_batch[0]))
-        print("len(mini_batch[0][0])")
-        print(len(mini_batch[0][0]))
         GBRBM = GaussianBinaryRBM.GaussianBinaryRBM(mini_batch, epoch, num_visible_units,
                                                     num_hidden_units,
                                                     sampling_type, sampling_times,
